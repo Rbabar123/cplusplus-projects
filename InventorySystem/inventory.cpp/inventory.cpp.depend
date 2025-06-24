@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1750741505 source:/home/rbabar123/Documents/InventorySystem/inventory.cpp/main.cpp
+	<iostream>
+	<vector>
+	"inventoryItem.h"
+	"inventoryFunctions.h"
+
+1750741490 /home/rbabar123/Documents/InventorySystem/inventory.cpp/inventoryItem.h
+	<string>
+
+1750741511 /home/rbabar123/Documents/InventorySystem/inventory.cpp/inventoryFunctions.h
+	<vector>
+	"inventoryItem.h"
+
+1750742627 source:/home/rbabar123/Documents/InventorySystem/inventory.cpp/inventoryFunctions.cpp
+	"inventoryFunctions.h"
+	<iostream>
+	<iomanip>
+	<limits>
+
